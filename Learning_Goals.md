@@ -6,7 +6,7 @@
 
 ---
 
-# Deep Learning Specialization on Coursera
+## Deep Learning Specialization on Coursera
 
 The **Deep Learning Specialization** on Coursera consists of 5 sub-courses:
 
